@@ -1,0 +1,25 @@
+{
+	"basics":{
+		"objective":"I claims to have leadership and organizational skills as his/her main traits, as well as a strong GPA."
+
+"Each of these will need to be PROVEN later in the resume – perhaps he/she is an elected student official, or helped organize school dances. That information would be contained within in the resume."
+	},
+	"education":[
+		{
+			"degree":"B.Tech(Computer science of engineering)",
+			"college":"KLM engineering college",
+			"data":["2014-18","75"]
+		},
+		{
+			"degree":"state board of technical education",
+			"college":"Narayana college",
+			"data":["2012-14","77"]
+		},
+		{
+			"degree":"ssc",
+			"college":"Nagarjuna",
+			"data":["2011-12","80"]
+		]
+		}
+		}
+	}

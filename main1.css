@@ -1,0 +1,26 @@
+.flex{
+display:flex;
+border:solid;
+border-radius=50%;
+flex-direction:column;
+width:70%;
+vertical-align:midde;
+margin-left:auto;
+margin-right:auto;
+}
+h1{
+	color:red;
+	text-align:center;
+}
+h2{
+	display:block;
+	background-color:#A569BD;
+}
+h3{
+	display:block;
+	background-color:#A569BD;
+}
+table,tr,th,td{
+	border:solid;
+	text-align:center;
+}
